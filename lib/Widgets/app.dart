@@ -1,6 +1,3 @@
-
-
-
 import 'package:flutter/material.dart';
 import 'package:my_fearst_flutter_proect/Widgets/user_profile.dart';
 
