@@ -12,6 +12,8 @@ Create
 After Delete
 
 Проверка получит ли ветка Second Изменения
+Проверка получит ли основная ветка
+
 
 ## Getting Started
 
